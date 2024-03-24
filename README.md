@@ -35,6 +35,7 @@ The IMDb Movie Reviews dataset is used for training and testing the sentiment an
 ## Usage
 1. Clone the repository:
 `git clone https://github.com/sestok/IMDB-Sentiment-Analysis-NLP/`
-2. Navigate to the project directory:
+2. Download the Dataset from here https://ai.stanford.edu/~amaas/data/sentiment/
+3. Navigate to the project directory:
 `cd Sentiment-Analysis-in-NLP`
-3. Follow the instructions provided above to preprocess the data, extract features, and build the sentiment analysis model.
+4. Follow the instructions provided above to preprocess the data, extract features, and build the sentiment analysis model.
